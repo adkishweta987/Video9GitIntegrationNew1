@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f360c3f0-20da-421c-a431-ed8923a2daa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='global_nav_profile_link']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Morgan Sanchez&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5912a600-8304-4cb9-8cba-bef5e17d182e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://mylearnerjourney.instructure.com/images/messages/avatar-50.png</value>
+      <webElementGuid>a8ec3b6a-995a-4b93-9619-ba1dc9e3a607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Morgan Sanchez</value>
+      <webElementGuid>35cd808d-1c57-4370-af59-6b7292727b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;global_nav_profile_link&quot;)/div[@class=&quot;menu-item-icon-container&quot;]/div[@class=&quot;fs-exclude ic-avatar&quot;]/img[1]</value>
+      <webElementGuid>2abfe83b-f18e-472c-b233-76f95fce3676</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='global_nav_profile_link']/div/div/img</value>
+      <webElementGuid>9d48a66a-adc8-4718-bf90-24ebd10bcfac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Morgan Sanchez']</value>
+      <webElementGuid>6c25db80-c0da-4646-b3c5-6f93ab477ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>2679325e-ee3e-487d-b85e-b0bf6a6c4c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://mylearnerjourney.instructure.com/images/messages/avatar-50.png' and @alt = 'Morgan Sanchez']</value>
+      <webElementGuid>acec7082-382b-4a61-b3bc-c559bf7a24bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
